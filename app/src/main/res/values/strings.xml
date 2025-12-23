@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App -->
+    <string name="app_name">NotesApp</string>
+
+    <!-- Menu -->
+    <string name="menu_add_note">Add Note</string>
+    <string name="menu_delete_note">Delete Note</string>
+    <string name="menu_storage">Storage</string>
+    <string name="storage_prefs">SharedPreferences</string>
+    <string name="storage_file">File (JSON)</string>
+
+    <!-- Add note screen -->
+    <string name="title_add_note">Add Note</string>
+    <string name="label_note_name">Note name</string>
+    <string name="label_note_content">Note content</string>
+    <string name="btn_save">Save</string>
+
+    <!-- Delete note -->
+    <string name="title_delete_note">Delete Note</string>
+
+    <!-- Toast messages -->
+    <string name="toast_empty_field">Field cannot be empty!</string>
+    <string name="toast_note_saved">Note saved</string>
+    <string name="toast_note_deleted">Note deleted</string>
+
+    <!-- Main screen -->
+    <string name="hint_tap_note">Tap a note to view content</string>
+
+</resources>
